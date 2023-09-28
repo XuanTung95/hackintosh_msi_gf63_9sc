@@ -12,6 +12,8 @@ Sets the port to HDMI(<00 08 00 00>)
 Set secure boot disabled
 
 # for EFI in hard drive, must change file/dir name
+
+```
 EFI
 |-MICROSOFT
 |    |-BOOT
@@ -19,6 +21,7 @@ EFI
 |-OC
   |- ACPI
   ...
+```
 
 # Sonoma
 - Update WhateverGreen, Lilu, VirtualSMC, AppleALC, Bluetooth, Airportltlwm
